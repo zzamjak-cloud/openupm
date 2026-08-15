@@ -16,4 +16,4 @@ gitTagPrefix: ''
 gitTagIgnore: ''
 image: null
 createdAt: 1786754048000
-readme: 'main:README.md'
+readme: 'main:Packages/com.zzamjak.tmpeffects/README.md'
